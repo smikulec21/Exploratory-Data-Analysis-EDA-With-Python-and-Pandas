@@ -32,4 +32,4 @@ We will address any duplicate rows and missing values in the dataset to ensure d
 ## Task 5: Correlation Analysis
 Finally, we will perform correlation analysis to identify relationships between different variables in the dataset.
 
-Throughout this guided project, we will use Python and Pandas for data manipulation and analysis to answer these questions and gain insights from the supermarket sales data.
+Throughout this guided project, we will use Python and Pandas for data manipulation and analysis in a Jupyter Notebook. The detailed tasks and instructions can be found in the uploaded PDF file.
